@@ -28,6 +28,16 @@ fs.createReadStream('data.csv')
             row.features.push(features_temp)
         }
         
+        if (row.image.includes('-')) //has multiples images
+        {
+            image_temp = row.image.split('-')
+            row.image = image_temp
+        } else {// has only one feature
+            image_temp = row.image
+            row.image = []
+            row.image.push(image_temp)
+        }
+        
         if (buffer.length == 0) {
             buffer.push(row)
         } else {

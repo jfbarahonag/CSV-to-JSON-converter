@@ -2,7 +2,11 @@
     {
         "name": "Clair",
         "slug": "1",
-        "image": "image_y",
+        "image": [
+            "image_y",
+            "image",
+            "z"
+        ],
         "price": "123",
         "description": "lorem ipsum",
         "features": [
@@ -16,7 +20,9 @@
     {
         "name": "Fancy",
         "slug": "2",
-        "image": "image_z",
+        "image": [
+            "image_z"
+        ],
         "price": "123",
         "description": "lorem ipsum",
         "features": [
@@ -30,7 +36,9 @@
     {
         "name": "Pipe",
         "slug": "3",
-        "image": "image_x",
+        "image": [
+            "image_x"
+        ],
         "price": "123",
         "description": "lorem ipsum",
         "features": [
@@ -46,7 +54,11 @@
     {
         "name": "Tete",
         "slug": "4",
-        "image": "image_x",
+        "image": [
+            "image_x",
+            "image_z",
+            "image_a"
+        ],
         "price": "123",
         "description": "lorem ipsum",
         "features": [

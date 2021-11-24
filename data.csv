@@ -1,6 +1,6 @@
 name,slug,image,price,description,features,category_id,status,created_at,last_modified
-Clair,1,image_y,123,lorem ipsum,feature,1,active,today,today
+Clair,1,image_y-image-z,123,lorem ipsum,feature,1,active,today,today
 John,1,image_x,123,lorem ipsum,feature1-feature2-feature3,1,active,today,today
 Fancy,2,image_z,123,lorem ipsum,feature,1,active,today,today
 Pipe,3,image_x,123,lorem ipsum,feature1-feature2-feature3,1,active,today,today
-Tete,4,image_x,123,lorem ipsum,feature1-feature3,1,active,today,today
+Tete,4,image_x-image_z-image_a,123,lorem ipsum,feature1-feature3,1,active,today,today
