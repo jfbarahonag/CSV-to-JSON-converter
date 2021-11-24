@@ -1,0 +1,12 @@
+[
+    {
+        "name": "x-name",
+        "image": ["x-url"],
+        "slug": "x-slug",
+        "price": "x-price",
+        "description": "x-description",
+        "features": ["x-1","x-2"],
+        "category_id": "x-category_id",
+        "status": "x-status"
+    }
+]

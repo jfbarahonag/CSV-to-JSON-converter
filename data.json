@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Clair",
+        "slug": "1",
+        "image": "image_y",
+        "price": "123",
+        "description": "lorem ipsum",
+        "features": [
+            "feature"
+        ],
+        "category_id": "1",
+        "status": "active",
+        "created_at": "today",
+        "last_modified": "today"
+    },
+    {
+        "name": "Fancy",
+        "slug": "2",
+        "image": "image_z",
+        "price": "123",
+        "description": "lorem ipsum",
+        "features": [
+            "feature"
+        ],
+        "category_id": "1",
+        "status": "active",
+        "created_at": "today",
+        "last_modified": "today"
+    },
+    {
+        "name": "Pipe",
+        "slug": "3",
+        "image": "image_x",
+        "price": "123",
+        "description": "lorem ipsum",
+        "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+        ],
+        "category_id": "1",
+        "status": "active",
+        "created_at": "today",
+        "last_modified": "today"
+    },
+    {
+        "name": "Tete",
+        "slug": "4",
+        "image": "image_x",
+        "price": "123",
+        "description": "lorem ipsum",
+        "features": [
+            "feature1",
+            "feature3"
+        ],
+        "category_id": "1",
+        "status": "active",
+        "created_at": "today",
+        "last_modified": "today"
+    }
+]
