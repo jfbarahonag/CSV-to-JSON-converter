@@ -65,36 +65,3 @@ fs.createReadStream(INPUT_FILENAME)
         const data = JSON.stringify(buffer)
         fs.writeFileSync(OUTPUT_FILENAME, data)
     })
-
-
-// fs.createReadStream('data.csv')
-//     .pipe(csv())
-//     .on('data', row => {
-
-//         // first input
-//         if (buffer.length == 0) {
-//             const img_temp = row.image
-//             row.image = []
-//             row.image.push(img_temp)
-
-//             buffer.push(row)
-//         } else {
-//             buffer.map( (obj, idx) => {
-//                 if (obj.slug !== row.slug) {
-//                     const img_temp = row.image
-//                     row.image = []
-//                     row.image.push(img_temp)
-//                     buffer.push(row)
-//                 } else {
-//                     /* exists */
-//                     buffer[idx].image.push(row.image);
-//                 }
-//             })
-//         }
-
-    
-
-//     })
-//     .on('end', () => {
-//         console.log(buffer)
-//     })
