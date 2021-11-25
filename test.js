@@ -11,16 +11,19 @@ const csv = require('csv-parser')
 const fs = require('fs')
 
 const buffer = []
+const KEY = '`'
+const OUTPUT_FILENAME = 'cell_data.json'
+const INPUT_FILENAME = 'cell_data.csv'
 
-fs.createReadStream('data.csv')
+fs.createReadStream(INPUT_FILENAME)
     .pipe(csv())
     .on('data', row => { //a row is an object
 
         let features_temp
 
-        if (row.features.includes('-')) //has multiples features
+        if (row.features.includes(KEY)) //has multiples features
         {
-            features_temp = row.features.split('-')
+            features_temp = row.features.split(KEY)
             row.features = features_temp
         } else {// has only one feature
             features_temp = row.features
@@ -28,9 +31,9 @@ fs.createReadStream('data.csv')
             row.features.push(features_temp)
         }
         
-        if (row.image.includes('-')) //has multiples images
+        if (row.image.includes(KEY)) //has multiples images
         {
-            image_temp = row.image.split('-')
+            image_temp = row.image.split(KEY)
             row.image = image_temp
         } else {// has only one feature
             image_temp = row.image
@@ -60,7 +63,7 @@ fs.createReadStream('data.csv')
     })
     .on('end', () => {
         const data = JSON.stringify(buffer)
-        fs.writeFileSync('data.json', data)
+        fs.writeFileSync(OUTPUT_FILENAME, data)
     })
 
 

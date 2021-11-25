@@ -1,0 +1,455 @@
+[
+    {
+        "name": "SAMSUNG Galaxy A03s",
+        "slug": "1",
+        "image": [
+            "/images/productos/samsung/galaxy_a03s/1.jpg",
+            "/images/productos/samsung/galaxy_a03s/2.jpg",
+            "/images/productos/samsung/galaxy_a03s/3.jpg",
+            "/images/productos/samsung/galaxy_a03s/4.jpg",
+            "/images/productos/samsung/galaxy_a03s/5.jpg"
+        ],
+        "price": "429900",
+        "description": "El Galaxy A03s provee una batería de 5000 mAh que te permitirá tener más duración sin tener que cargarla tan a menudo, también cuenta con una gran pantalla de 6.5\" que te permitirá disfrutar gran variedad de contenido con una experiencia inmersiva, y con su triple cámara trasera podrás capturar tu día a día tal cual tu lo ves.",
+        "features": [
+            "Pantalla Infinity-V-Disaplay de 6.5\"",
+            "Batería de 5000 mAh",
+            "Triple cámara trasera con macro cámara y depth cámara",
+            "Sonido Dolby ATMOS para una experiencia inmersiva",
+            "Diseño ergonómico"
+        ],
+        "category_id": "1",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "XIAOMI REDMI 10",
+        "slug": "2",
+        "image": [
+            "/images/productos/xiaomi/redmi_10/1.jpg",
+            "/images/productos/xiaomi/redmi_10/2.jpg",
+            "/images/productos/xiaomi/redmi_10/3.jpg",
+            "/images/productos/xiaomi/redmi_10/4.jpg",
+            "/images/productos/xiaomi/redmi_10/5.jpg"
+        ],
+        "price": "699900",
+        "description": "Con el nuevo Redmi 10 tendrás la total seguridad que todos tus momentos serán especiales gracias a su alta resolución de 50MP en su cámara principal que harán que todos tus recuerdos tengan colores vivos y reales, complementados con 3 cámaras para que no te piedras de ningún detalle, Si lo que te gusta es ver películas, series o videos, tendrás la gran ventaja de contar con una gran pantalla de 6.5 pulgadas que se complementan con una tasa de refresco de 90Hz haciéndolo uno de los smartphones más económicos con esta característica, En la parte del rendimiento cuanta con un procesador MediaTek Helio G88 el cual podrás usar cualquier aplicación tranquilamente. La batería de 5000 mAh con carga rápida de 18W (Cargador incluido) te permitirá llegar hasta el final del día con carga de sobra.",
+        "features": [
+            "Cámara cuádruple de 50Mp, alta calidad al mejor precio",
+            "Pantalla de 90Hz, disfruta mejores experiencias en juegos",
+            "Procesador MediaTek G88, poderoso en todo momento",
+            "Doble altavoz, para que disfrutes de sonido estéreo",
+            "Batería de 5000mAh, llega al final del día con 1 sola carga"
+        ],
+        "category_id": "2",
+        "status": "inactivo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "MOTOROLA E6I",
+        "slug": "3",
+        "image": [
+            "/images/productos/motorola/e6i/1.jpg",
+            "/images/productos/motorola/e6i/2.jpg",
+            "/images/productos/motorola/e6i/3.jpg",
+            "/images/productos/motorola/e6i/4.jpg",
+            "/images/productos/motorola/e6i/5.jpg"
+        ],
+        "price": "364900",
+        "description": "Explora un nuevo mundo con el MOTO E6i de MOTOROLA.| Una variante del Moto E6 corriendo Android 10 Go Edition, con una pantalla HD+ de 6.1 pulgadas y potenciado por un procesador Unisoc de 8 núcleos, acompañado de 2GB de memoria RAM y 32GB de almacenamiento interno. En cuanto a cámaras, captura los mejores momentos con una cámara dual de 13MP + 2MP en su posterior y cámara frontal de 5 MP, posee una batería de 3000 mAh que provee la energía para disfrutar de los juegos y tus contenidos por muchas más horas. Aprovecha, ¡lleva el tuyo ahora!",
+        "features": [
+            "Pantalla Max Vision HD+, obtén más campo de visualización",
+            "Rendimiento sin retrasos con procesador OctaCore y 2GB RAM",
+            "Acceso super rápido a través del sensor de huella"
+        ],
+        "category_id": "3",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "VIVO Y51",
+        "slug": "4",
+        "image": [
+            "/images/productos/vivo/y51/1.jpg",
+            "/images/productos/vivo/y51/2.jpg",
+            "/images/productos/vivo/y51/3.jpg",
+            "/images/productos/vivo/y51/4.jpg",
+            "/images/productos/vivo/y51/5.jpg"
+        ],
+        "price": "779900",
+        "description": "Las características que más te gustan en un mismo celular, RAM 8GB +128GB más rapidez y memoria para guardar las fotos o videos que tomes con tu increíble cámara de 48MP, puedes crear obras maestras hasta en ambientes de poca luz. Disfruta de su gran batería de 5000 mAh + carga rápida 18W.",
+        "features": [
+            "RAM 8GB+ 128GB",
+            "5000 mAh+ Carga rápida 18W",
+            "Cámara principal de 48MP",
+            "Toma videos ultra estables",
+            "Exclusivo sistema Multi-Turbo 4.0"
+        ],
+        "category_id": "4",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "NOKIA C20",
+        "slug": "5",
+        "image": [
+            "/images/productos/nokia/c20/1.jpg",
+            "/images/productos/nokia/c20/2.jpg",
+            "/images/productos/nokia/c20/3.jpg",
+            "/images/productos/nokia/c20/4.jpg",
+            "/images/productos/nokia/c20/5.jpg"
+        ],
+        "price": "369900",
+        "description": "Con diseño europeo y calidad única NOKIA no solo se ve genial si no que también está preparado para los pequeños golpes de la vida. Gracias a la duración de la batería de todo un día te permitirá hacer todo lo que amas por más tiempo , ya sea escuchar tu música o ver tus videos favoritos, mientras que su gran pantalla hace todo se vea aún mejor. Todo esto con un procesador octa-core, lo último de Android 11 Go y siempre seguro con actualizaciones mensuales de parches de seguridad durante 2 años.",
+        "features": [
+            "Tendrás selfies más brillantes con su flash frontal"
+        ],
+        "category_id": "5",
+        "status": "inactivo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "ZTE BLADE L8",
+        "slug": "6",
+        "image": [
+            "/images/productos/zte/blade/l8/1.jpg",
+            "/images/productos/zte/blade/l8/2.jpg",
+            "/images/productos/zte/blade/l8/3.jpg",
+            "/images/productos/zte/blade/l8/4.jpg",
+            "/images/productos/zte/blade/l8/5.jpg"
+        ],
+        "price": "189900",
+        "description": "Diseño clásico, confortable y accesible. Conoce el ZTE BLADE L8.| Celular alimentado por el chipset Spreadtrum SC7731E, 1 GB de RAM y 32 GB de almacenamiento interno para que guardes todos tus recuerdos y contenidos multimedia. Viene con una batería de Li-Ion 2000 mAh. Cuenta con una pantalla TFT de 5\" con resolución de 480 x 960 px. Diviértete y mantente siempre conectado, ¡lleva el tuyo ahora!",
+        "features": [
+            "Alto rendimiento gracias a su procesador Quad-core CPU",
+            "Dual SIM, tu número personal y laboral en el mismo teléfono",
+            "Android 9 Pie (Go edition), experiencia más rápida y fluida"
+        ],
+        "category_id": "6",
+        "status": "inactivo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "REALME C11",
+        "slug": "7",
+        "image": [
+            "/images/productos/realme/c11/1.jpg",
+            "/images/productos/realme/c11/2.jpg",
+            "/images/productos/realme/c11/3.jpg",
+            "/images/productos/realme/c11/4.jpg",
+            "/images/productos/realme/c11/5.jpg"
+        ],
+        "price": "379900",
+        "description": "Disfruta una gran tecnología por muy poco, conoce el modelo Realme C11 2021. La versión de gama de entrada, pero igual de potente llega para cumplir con todo lo que buscas en un Smartphone. Con una increíble pantalla de 6,5\" HD+ para mejorar tu experiencia visual. Batería de 5000mAh que te permite disfrutar de cualquier entretenimiento con una sola carga. Cámaras de 8MPX y 5MPX con IA para tomar fotografías con una calidad increíble, logrando excelentes colores y detalles. ¡Compra el tuyo ahora!",
+        "features": [
+            "Gran Pantalla 6.5\" para ver mejor tus películas y videos",
+            "Buen rendimiento y capacidad para todas tus tareas",
+            "Bandeja que te permite hasta 3 tarjetas",
+            "Carga Inversa que te permite darle carga a otros equipos",
+            "Gran Batería de 5000 mAh, obtén hasta 23 horas corridas de video en Youtube"
+        ],
+        "category_id": "7",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "HUAWEI Y5P",
+        "slug": "8",
+        "image": [
+            "/images/productos/huawei/y5p/1.jpg",
+            "/images/productos/huawei/y5p/2.jpg",
+            "/images/productos/huawei/y5p/3.jpg",
+            "/images/productos/huawei/y5p/4.jpg",
+            "/images/productos/huawei/y5p/5.jpg"
+        ],
+        "price": "329900",
+        "description": "Sumérgete en la experiencia envolvente de la pantalla FullView HD de 5,45 pulgadas del nuevo HUAWEI Y5p y disfruta plenamente de las maravillosas imágenes que podrás capturar con su cámara trasera HD de 8MP. Cuenta con 12 meses de garantía extendida, 6 meses de protección para tu pantalla. Su batería de 3.020 mAh te permitirá continuar tranquilamente tu vida sin estar pensando en cargar el teléfono y sus 32GB expansivos a 512GB te permiten guardar aplicaciones, fotos y videos. ¡Aquiere el tuyo!",
+        "features": [
+            "Pantalla Full View completa experiencia de pantalla",
+            "Tecnología de descanso visual certificado",
+            "Sistema de optimización de memoria EROFS",
+            "Incluye la tienda de aplicaciones: AppGallery"
+        ],
+        "category_id": "8",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "ALCATEL 1B",
+        "slug": "9",
+        "image": [
+            "/images/productos/alcatel/1b/1.jpg",
+            "/images/productos/alcatel/1b/2.jpg",
+            "/images/productos/alcatel/1b/3.jpg",
+            "/images/productos/alcatel/1b/4.jpg",
+            "/images/productos/alcatel/1b/5.jpg"
+        ],
+        "price": "349900",
+        "description": "Disfruta de una experiencia de usuario optimizada y ejecuta múltiples tareas a toda velocidad con Android™ 10 (Go Edition) y el procesador de cuatro núcleos del Alcatel 1B. Mejora aún más el rendimiento con un solo toque gracias a Smart Manager. Despreocúpate todo el día y haz mucho más gracias a su batería de larga duración de 3000 mAh. Consigue ayuda al instante con el botón especial del Asistente de Google. Disfruta de tu contenido sin límites en la pantalla panorámica HD+ de 5,5 pulgadas del Alcatel 1B.",
+        "features": [
+            "Reconocimiento facial para dar mas seguridad a tu celular",
+            "Batería de 3000mAh que permitirá hablar + 11,6hs seguido",
+            "Amplia memoria de 32GB + 2GB para almacenar lo que quieras"
+        ],
+        "category_id": "9",
+        "status": "inactivo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "KALLEY SILVER MAX PRO",
+        "slug": "10",
+        "image": [
+            "/images/productos/kalley/silver_max_pro/1.jpg",
+            "/images/productos/kalley/silver_max_pro/2.jpg",
+            "/images/productos/kalley/silver_max_pro/3.jpg",
+            "/images/productos/kalley/silver_max_pro/4.jpg",
+            "/images/productos/kalley/silver_max_pro/5.jpg"
+        ],
+        "price": "399900",
+        "description": "El Color Verde con Efecto 3D que te cautivará. El Kalley Silver Max Pro tiene una pantalla 6,5” IPS desarrollado para los que disfrutan de los mejores detalles de su contenido, con Android 11 y sus mejores funciones. Además, tiene el Chipset A25 de MTK, cámara con Inteligencia Artificial y más funciones impresionantes para que tener la mejor experiencia. Accesorios incluidos Cargador Tipo C, Audífonos, protector de silicona y vidrio templado. Conectividad 4GLTE conexión estable y rápida, Bluetooth V5.0 menor consumo energético y fluidez, Wifi Dual Band 2,4Ghz/5Ghz más conexión más versátil y rápida con cualquier tipo de Routers.",
+        "features": [
+            "Pantalla 6.5”HD+ IPS Colores reales/Detalles excepcionales",
+            "RAM3GB/ROM 32GB Expandible 256GB,Gran rendimiento y espacio",
+            "Mediatek A25 Octa-Core ejecuta tus tareas simultáneamente.",
+            "Batería de 5.000 mAh Tipo C, hasta 20H en uso cotidiano.",
+            "Conectividad 4G Bluetooth V5.0 y Wifi Dual Band 2,4Ghz/5Ghz"
+        ],
+        "category_id": "10",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "IPHONE 13 PRO",
+        "slug": "11",
+        "image": [
+            "/images/productos/apple/iphone_13/1.jpg",
+            "/images/productos/apple/iphone_13/2.jpg",
+            "/images/productos/apple/iphone_13/3.jpg",
+            "/images/productos/apple/iphone_13/4.jpg",
+            "/images/productos/apple/iphone_13/5.jpg"
+        ],
+        "price": "5859000",
+        "description": "El mayor avance en nuestro sistema de cámaras Pro hasta ahora. Un hardware de última generación que captura aún más detalles, un software superinteligente que brinda nuevas técnicas para tomar fotos y grabar videos, y un chip ultrarrápido que hace que todo esto sea posible. Se abre un mundo de posibilidades para tu creatividad. Saca tu lado Pro.",
+        "features": [
+            "Fotografía Macro: Enfoque a tan sólo 2 cm de distancia.",
+            "Modo Noche: Ahora en todas las cámaras.",
+            "Modo Cine: Te permite editar profundidad luego de la toma.",
+            "Puedes grabar y editar en ProRes o Dolby Vision",
+            "Chip A15 Bionic, el más rápido del mundo en un smartphone."
+        ],
+        "category_id": "11",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "IPHONE XR",
+        "slug": "12",
+        "image": [
+            "/images/productos/apple/iphone_xr/1.jpg",
+            "/images/productos/apple/iphone_xr/2.jpg",
+            "/images/productos/apple/iphone_xr/3.jpg",
+            "/images/productos/apple/iphone_xr/4.jpg",
+            "/images/productos/apple/iphone_xr/5.jpg"
+        ],
+        "price": "2899000",
+        "description": "Brillante por donde lo veas. El iPhone XR de Apple tiene una pantalla Liquid Retina de 6.1 pulgadas|, el LCD más desarrollado de la industria y una cámara de 12 megapíxeles. Cuenta con Face ID avanzado, tu rostro no solo te permite el acceso, descubre mucho más. Además, tiene el chip A12 Bionic, diseñado para el aprendizaje automático en tiempo real, eso significa que reconoce patrones y puede hacer predicciones para mejorar tu experiencia.",
+        "features": [
+            ""
+        ],
+        "category_id": "11",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "HUAWEI Y9A",
+        "slug": "13",
+        "image": [
+            "/images/productos/huawei/y9a/1.jpg",
+            "/images/productos/huawei/y9a/2.jpg",
+            "/images/productos/huawei/y9a/3.jpg",
+            "/images/productos/huawei/y9a/4.jpg",
+            "/images/productos/huawei/y9a/5.jpg"
+        ],
+        "price": "1099900",
+        "description": "Déjate seducir por el inigualable HUAWEI Y9a y sus exquisitos matices que se mueven entre la luz y las sombras, Descubre su increíble diseño Halo en el que conviven las espectaculares cuatro cámaras traseras con sensor de 64 MP para que no pares de sorprender y sorprenderte con fotos fantásticas y pon a prueba su inigualable carga rápida de 40 W, para que explores sin pensar más que en divertirte",
+        "features": [
+            "Aprovecha los 12 Meses de garantía extendida",
+            "Disfruta 6 meses de protección para tu pantalla",
+            "Aprovecha los 15GB de espacio en HUAWEI cloud por un año",
+            "Ultra full view pantalla de 6.63\"",
+            "Super carga 22.5/40 W, obten carga completa mucho más rápido."
+        ],
+        "category_id": "8",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "XIAOMI REDMI 10S",
+        "slug": "14",
+        "image": [
+            "/images/productos/xiaomi/redmi_note_10s/1.jpg",
+            "/images/productos/xiaomi/redmi_note_10s/2.jpg",
+            "/images/productos/xiaomi/redmi_note_10s/3.jpg",
+            "/images/productos/xiaomi/redmi_note_10s/4.jpg",
+            "/images/productos/xiaomi/redmi_note_10s/5.jpg"
+        ],
+        "price": "1299900",
+        "description": "Captura nuevas aventuras y guarda tus recuerdos gracias a su cámara cuádruple de 64Mpx, con una claridad inmensa en cada detalle. Su pantalla de colores vibrantes superará todas tus exceptivas logrando así disfrutar de cualquier contenido multimedia, y su procesador G95 trabaja tan fluido y eficaz que no notaras la diferencia con celulares incluso más costosos. Su gran batería de 5000mAh te permitirá estar todo el día sin preocuparte por la carga, de igual manera incluye un cargador de 33W que te permite cargar en aproximadamente 1 hora el 100% de ella",
+        "features": [
+            "Cámara de 64Mpx, captura los mejores momentos de tu día",
+            "Pantalla Amoled 6,43\"",
+            "Entretenimiento con colores vivos y nítidos",
+            "Sonido estéreo, altavoces con un sonido más amplio y claro",
+            "Optimiza tu tiempo, Carga rápida de 33W,"
+        ],
+        "category_id": "2",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "SAMSUNG Galaxy A22",
+        "slug": "15",
+        "image": [
+            "/images/productos/samsung/galaxy_a22/1.jpg",
+            "/images/productos/samsung/galaxy_a22/2.jpg",
+            "/images/productos/samsung/galaxy_a22/3.jpg",
+            "/images/productos/samsung/galaxy_a22/4.jpg",
+            "/images/productos/samsung/galaxy_a22/5.jpg"
+        ],
+        "price": "797900",
+        "description": "Mantente siempre conectado con tu Galaxy A22, gracias a su batería de 5000 mAh. Cuenta con una memoria RAM de 4GB y alto almacenamiento de 128GB que te permite disfrutar tus aplicaciones ágilmente y llevar contigo la información que necesites. Su display de 6.4 pulgadas te permite tener una experiencia visual inigualable con el mejor contenido.",
+        "features": [
+            "Batería inteligente 5000 mAh, que te dura todo el día.",
+            "Pantalla HD+ que permite ver tus videos con gran nitidez",
+            "Almacenamiento de 128GB para que guardes tus archivos."
+        ],
+        "category_id": "1",
+        "status": "inactivo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "NOKIA G10",
+        "slug": "16",
+        "image": [
+            "/images/productos/nokia/g10/1.jpg",
+            "/images/productos/nokia/g10/2.jpg",
+            "/images/productos/nokia/g10/3.jpg",
+            "/images/productos/nokia/g10/4.jpg",
+            "/images/productos/nokia/g10/5.jpg"
+        ],
+        "price": "549900",
+        "description": "La vida familiar requiere energía. Mucha energía. Por suerte, Nokia G10 tiene lo que necesitas gracias a una batería que dura varios días (días, no horas) con una sola carga. Todos quedarán fascinados con su gran pantalla y con su cámara principal triple con imágenes mejoradas que permite captar todos los momentos especiales, sucedan cuando sucedan. Combina eso con la última versión de Android 11, dos años de actualizaciones de software y tres años de actualizaciones de seguridad y el resultado es un teléfono que realmente supera la prueba del tiempo.",
+        "features": [
+            "Cámara triple con AI, capta todos tus momentos especiales",
+            "Equípate con una batería con AI para todo el fin de semana",
+            "Sumérgete en su gran y brillante pantalla",
+            "Desbloquéalo al instante, solo con una mirada o un toque"
+        ],
+        "category_id": "5",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "REALME C21Y",
+        "slug": "17",
+        "image": [
+            "/images/productos/realme/c21y/1.jpg",
+            "/images/productos/realme/c21y/2.jpg",
+            "/images/productos/realme/c21y/3.jpg",
+            "/images/productos/realme/c21y/4.jpg",
+            "/images/productos/realme/c21y/5.jpg"
+        ],
+        "price": "529900",
+        "description": "Disfruta del modelo Realme C21Y. La versión de gama media con algunas características de gama alta como el NFC, la carga inversa e inteligencia artificial en sus cámaras. Con una increíble pantalla de 6,5\" HD+ para mejorar tu experiencia visual. Batería de 5000mAh que te permite disfrutar de cualquier entretenimiento con una sola carga. Triple cámara de 13MPX+2MPX+2MPX para tomar fotografías con una calidad increíble, logrando excelentes colores y detalles. ¡Compra el tuyo ahora!",
+        "features": [
+            ""
+        ],
+        "category_id": "7",
+        "status": "inactivo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "MOTOROLA G20",
+        "slug": "18",
+        "image": [
+            "/images/productos/motorola/g20/1.jpg",
+            "/images/productos/motorola/g20/2.jpg",
+            "/images/productos/motorola/g20/3.jpg",
+            "/images/productos/motorola/g20/4.jpg",
+            "/images/productos/motorola/g20/5.jpg"
+        ],
+        "price": "699900",
+        "description": "El Moto G20 cuenta con un avanzado sistema de 4 cámaras. Anhelas un sensor de 48 MP1 y cámaras que se adapten a cada situación. Es tuyo. Qué tal una pantalla ultra amplia más fluida. Con el moto g20, es posible.",
+        "features": [
+            "Sistema de 4 cámaras con 48 MP1",
+            "Pantalla fluída de 90 Hz con 6.5",
+            "Hasta 2 días de batería."
+        ],
+        "category_id": "3",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "VIVO Y11S",
+        "slug": "19",
+        "image": [
+            "/images/productos/vivo/y11s/1.jpg",
+            "/images/productos/vivo/y11s/2.jpg",
+            "/images/productos/vivo/y11s/3.jpg",
+            "/images/productos/vivo/y11s/4.jpg",
+            "/images/productos/vivo/y11s/5.jpg"
+        ],
+        "price": "509900",
+        "description": "Con el vivo Y11s tienes la mejor tecnología al alcance de tu mano, su amplia batería de 5000 mAh combinada con la tecnología de Inteligencia Artificial de ahorro de energía te garantiza batería de sobra para el día a día. Una sola carga completa te da hasta 16 horas de películas, tienes tanta batería, que puedes compartirla, con la función carga inversa usa tu Y11s para cargar otros dispositivos. Accede de manera fácil, rápida y segura a tu teléfono con el lector de huella lateral. El vivo Y11s está diseñado para rendir a tu ritmo, con su procesador Qualcomm Snapdragon 460 de 11nm y 3GB de ROM",
+        "features": [
+            "Batería de 5000 mAh, para tener energía todo el día.",
+            "Carga Inversa, comparte tu batería con otros dispositivos",
+            "Pantalla Full View 6,51 pulgadas",
+            "Con el Exclusivo sistema Multi-Turbo para videojuegos"
+        ],
+        "category_id": "4",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    },
+    {
+        "name": "ZTE BLADE A3",
+        "slug": "20",
+        "image": [
+            "/images/productos/zte/blade/a3/1.jpg",
+            "/images/productos/zte/blade/a3/2.jpg",
+            "/images/productos/zte/blade/a3/3.jpg",
+            "/images/productos/zte/blade/a3/4.jpg",
+            "/images/productos/zte/blade/a3/5.jpg"
+        ],
+        "price": "",
+        "description": "Mayor tecnología para un mayor rendimiento, conoce el ZTE BLADE A3 2020.| Celular alimentado por el chipset Spreadtrum SC9832E, 1 GB de RAM y 32 GB de almacenamiento interno para que guardes todos tus recuerdos y contenidos multimedia. Viene con una batería de Li-Ion 2600 mAh. Cuenta con una pantalla de 5,45\" con resolución de 720 x 1440 px. Diviértete y mantente siempre conectado, ¡lleva el tuyo ahora!",
+        "features": [
+            "Pantalla Full View HD+ de 5,45\", mejor visualización",
+            "Procesador Quad Core, fluidez en cada movimiento",
+            "Dual SIM, tu número personal y laboral en el mismo teléfono"
+        ],
+        "category_id": "6",
+        "status": "activo",
+        "created_at": "24/11/2021",
+        "last_modified": "24/11/2021"
+    }
+]
